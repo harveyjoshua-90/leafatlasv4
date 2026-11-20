@@ -1,0 +1,17 @@
+{
+  "name": "leafatlas-patient-understanding-audit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LeafAtlas approved orthoptic parent questionnaires with persistent Netlify Blobs and restricted analytics",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/live.test.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

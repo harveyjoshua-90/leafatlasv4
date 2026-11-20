@@ -1,0 +1,2 @@
+# Optional compatibility rewrites for API shortcuts
+/api/*  /.netlify/functions/:splat  200

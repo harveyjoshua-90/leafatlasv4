@@ -1,0 +1,56 @@
+{
+  "status": "STAFF-ONLY — NEVER deploy to public folder",
+  "questionnaire_version": "1.0.0",
+  "keys": {
+    "amblyopia": {
+      "AMB-Q01": "T",
+      "AMB-Q02": "F",
+      "AMB-Q03": "T",
+      "AMB-Q04": "T",
+      "AMB-Q05": "T",
+      "AMB-Q06": "F",
+      "AMB-Q07": "F",
+      "AMB-Q08": "T"
+    },
+    "glasses": {
+      "GLA-Q01": "T",
+      "GLA-Q02": "T",
+      "GLA-Q03": "T",
+      "GLA-Q04": "T",
+      "GLA-Q05": "F",
+      "GLA-Q06": "F",
+      "GLA-Q07": "T",
+      "GLA-Q08": "F"
+    },
+    "intermittent-exotropia": {
+      "IEX-Q01": "T",
+      "IEX-Q02": "T",
+      "IEX-Q03": "F",
+      "IEX-Q04": "F",
+      "IEX-Q05": "T",
+      "IEX-Q06": "T",
+      "IEX-Q07": "F",
+      "IEX-Q08": "T"
+    },
+    "accommodative-esotropia": {
+      "AES-Q01": "T",
+      "AES-Q02": "T",
+      "AES-Q03": "F",
+      "AES-Q04": "T",
+      "AES-Q05": "T",
+      "AES-Q06": "T",
+      "AES-Q07": "T",
+      "AES-Q08": "F"
+    },
+    "pseudoesotropia": {
+      "PSE-Q01": "T",
+      "PSE-Q02": "F",
+      "PSE-Q03": "T",
+      "PSE-Q04": "T",
+      "PSE-Q05": "T",
+      "PSE-Q06": "F",
+      "PSE-Q07": "T",
+      "PSE-Q08": "F"
+    }
+  }
+}
